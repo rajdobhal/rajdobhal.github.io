@@ -23,6 +23,13 @@ Kerala, India's most advanced society: With hundred percent literacy. World-clas
 
 For administrative purpose, the state of Kerala is divided into fourteen districts. Most of these districts offer all the tourism products typical of the State.
 </i>
+<div style="opacity:0.5;position:absolute;left:50px;width:300px;height:150px;background-color:#40B3DF"></div>
+
+<div style="font-family:verdana;padding:20px;border-radius:10px;border:10px solid #EE872A;">
+
+<div style="opacity:0.3;position:absolute;left:120px;width:100px;height:200px;background-color:#8AC007"></div>
+<img src="http://www.kerala-tourism-travel.net/images/Kathakali.jpg" width="300" height="300">
+<img src="http://traveltrance.com/wp-content/uploads/2012/09/368d0_Kerala_Tourism_3817466189_b94e55f8ae.jpg" width="300" height="300">
 
 </body>
 </html>
