@@ -1,0 +1,6 @@
+<html>
+<body>
+<button type="button" onclick="alert('hello mam')">hawww</button>
+</body>
+</html>
+
