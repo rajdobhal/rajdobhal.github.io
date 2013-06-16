@@ -1,5 +1,6 @@
 <html>
 <body>
+<div style="opacity:0.5;position:absolute;left:50px;width:300px;height:150px;http://www.freecourses.net.au/wordpress/wp-content/uploads/2012/09/Tourism.jpg:#40B3DF"></div>
 <button type="button" onclick="alert('hello mam')"><strong><i>Bhains Ki Aankh</i></strong></button>
 </body>
 </html>
