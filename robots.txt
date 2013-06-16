@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://rajdobhal.github.io/sitemap.xml 
+Sitemap: http://www.rajdobhal.com/sitemap.xml 

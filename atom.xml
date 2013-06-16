@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Rajesh Dobhal]]></title>
-  <link href="http://rajdobhal.github.io/atom.xml" rel="self"/>
-  <link href="http://rajdobhal.github.io/"/>
-  <updated>2013-06-16T10:03:12+05:30</updated>
-  <id>http://rajdobhal.github.io/</id>
+  <link href="http://www.rajdobhal.com/atom.xml" rel="self"/>
+  <link href="http://www.rajdobhal.com/"/>
+  <updated>2013-06-16T10:05:58+05:30</updated>
+  <id>http://www.rajdobhal.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[It's Good To See You]]></title>
-    <link href="http://rajdobhal.github.io/blog/2013/06/16/its-good-to-see-you/"/>
+    <link href="http://www.rajdobhal.com/blog/2013/06/16/its-good-to-see-you/"/>
     <updated>2013-06-16T09:55:00+05:30</updated>
-    <id>http://rajdobhal.github.io/blog/2013/06/16/its-good-to-see-you</id>
+    <id>http://www.rajdobhal.com/blog/2013/06/16/its-good-to-see-you</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
