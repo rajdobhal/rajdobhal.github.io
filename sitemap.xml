@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://www.rajdobhal.com/blog/2013/06/16/its-good-to-see-you/</loc>
+        <loc>http://rajdobhal.github.io/blog/2013/06/16/its-good-to-see-you/</loc>
         <lastmod>2013-06-16T09:55:45+05:30</lastmod>
     </url>
     <url>
-        <loc>http://www.rajdobhal.com/</loc>
+        <loc>http://rajdobhal.github.io/</loc>
         <lastmod>2013-06-16T09:55:45+05:30</lastmod>
     </url>
     <url>
-        <loc>http://www.rajdobhal.com/blog/archives/</loc>
+        <loc>http://rajdobhal.github.io/blog/archives/</loc>
         <lastmod>2013-06-16T09:55:45+05:30</lastmod>
     </url>
     <url>
-        <loc>http://www.rajdobhal.com/robots.txt</loc>
+        <loc>http://rajdobhal.github.io/robots.txt</loc>
         <lastmod>2013-06-16T09:00:50+05:30</lastmod>
     </url>
 </urlset>
