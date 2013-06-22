@@ -4,7 +4,7 @@
   <title><![CDATA[Rajesh Dobhal]]></title>
   <link href="http://rajdobhal.github.io/atom.xml" rel="self"/>
   <link href="http://rajdobhal.github.io/"/>
-  <updated>2013-06-22T12:26:16+05:30</updated>
+  <updated>2013-06-22T14:13:16+05:30</updated>
   <id>http://rajdobhal.github.io/</id>
   <author>
     <name><![CDATA[Rajesh Dobhal]]></name>
@@ -18,7 +18,18 @@
     <link href="http://rajdobhal.github.io/blog/2013/06/22/visualisation/"/>
     <updated>2013-06-22T11:55:00+05:30</updated>
     <id>http://rajdobhal.github.io/blog/2013/06/22/visualisation</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h2 align="center">Google Fusion Tables</h2>
+
+
+<p>Google Fusion Tables (or simply Fusion Tables) is a Web service provided by Google for data management. Data is stored in multiple tables that Internet users can view and download. The website opened in the northern hemisphere in the summer of 2009, announced by Alon Halevy and Rebecca Shapley.</p>
+
+<p>The Web service provides means for visualizing data with pie charts, bar charts, lineplots, scatterplots, timelines, and geographical maps. Data is exported in a comma-separated values file format.</p>
+
+<p>The service was further described in a scientific paper in 2010.</p>
+
+<p>The size of uploaded data sets is currently limited to 250 MB per user.</p>
+
+<p>In the 2011 upgrade of Google Docs, Fusion Tables became a default feature, under the title &ldquo;Tables (beta)&rdquo;.</p>
 ]]></content>
   </entry>
   
